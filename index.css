@@ -1,0 +1,14 @@
+body{
+    padding: 0;
+    margin: 0;
+    overflow: hidden;
+    background-color: rgb(33, 33, 33);
+    display: flex;
+    min-height: 100vh;
+    justify-content: center;
+    align-items: center;
+}
+#canvas{
+    background-color: skyblue
+
+}
